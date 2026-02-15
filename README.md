@@ -44,5 +44,7 @@ Documents are forum-style financial discussions with high variance in length and
   - indexing
   - baseline experiments (BM25 / PL2 / TF-IDF, etc.)
   - advanced pipelines (Doc2Query + neural re-ranking + intent/sentiment-aware diversity)
+  - precomputed expandend documents
+  - precomputed expandend queries
 - `Project_Report.pdf` — methodology + results write-up
 
